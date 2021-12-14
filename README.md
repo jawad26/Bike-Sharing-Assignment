@@ -16,10 +16,10 @@ Model Building:
 In the dataset provided, you will notice that there are three columns named 'casual', 'registered', and 'cnt'. The variable 'casual' indicates the number casual users who have made a rental. The variable 'registered' on the other hand shows the total number of registered users who have made a booking on a given day. Finally, the 'cnt' variable indicates the total number of bike rentals, including both casual and registered. The model should be built taking this 'cnt' as the target variable.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Company should focus on expanding business during Spring & Winter season.
+- Company should focus on expanding business during November & December.
+- As per previous data we can expect to have a high demand on Rental Bike once situation comes back to normal.
+- There will be a high chance of less bookings during Mist or Heavy Rain, would suggest to use this time to serive the bikes without having business impact.
 
 ## Technologies Used
 - Python - version 3.8.8
@@ -30,9 +30,7 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired to perfrom analysis the demand of shared bike in differrent circumstance. 
 
 
 ## Contact
